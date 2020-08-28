@@ -2,10 +2,12 @@
 
  Hi! I´m a Computer Science student at [FURB](http://www.furb.br/web/10/portugues). I´ve been coding as a hobby since I was 14 and I started attending University in 2020. I´m currently focused on learning some web development libraries and frameworks. 
 
-## Development subjects I´ve studied
+## Technology subjects I´ve studied
 
  - Python (Selenium, Tkinter, Django)
  - Java (OOP)
+ - Linux
+ - C
  - C# (Unity game development)
  - HTML / CSS / JS
  - Javascript ES6 / Typescript

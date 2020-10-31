@@ -12,6 +12,7 @@
  - HTML / CSS / JS
  - Javascript ES6 / Typescript
  - NodeJS / ReactJS (GatsbyJS) / React Native 
+ - VueJS
 
 ## Web Presence
 

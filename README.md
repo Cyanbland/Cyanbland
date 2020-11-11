@@ -13,6 +13,7 @@
  - Javascript ES6 / Typescript
  - NodeJS / ReactJS (GatsbyJS) / React Native 
  - VueJS
+ - SQL (MySQL)
 
 ## Web Presence
 

@@ -3,17 +3,11 @@
  Hi! I´m a Computer Science student at [FURB](http://www.furb.br/web/10/portugues). I´ve been coding as a hobby since I was 14 and I started attending University in 2020. I´m currently focused on learning some web development libraries and frameworks, as well as web hacking. 
 
 ## Technology subjects I´ve studied
-
- - Python (Selenium, Tkinter, Django)
- - Java (OOP)
- - Linux
- - C
- - C# (Unity game development)
- - HTML / CSS / JS
- - Javascript ES6 / Typescript
- - NodeJS / ReactJS (GatsbyJS) / React Native 
- - VueJS
- - SQL (MySQL)
+- Currently focusing on Cybersecurity topics.
+- Created Front-end pages as a freelancer.
+- Studied about back-end structures like MVC and learned about security implementations.
+- Completed several CTF (Capture the Flag) challenges on TryHackMe and PortSwigger´s Web Security Academy.
+- Studying about low-level programming and infrastructures with Assembly and C.
 
 ## Web Presence
 

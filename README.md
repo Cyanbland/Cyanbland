@@ -1,13 +1,8 @@
 # Paulo Rubens de Moraes Leme Júnior
 
- Hi! I´m a Computer Science student at [FURB](http://www.furb.br/web/10/portugues). I´ve been coding as a hobby since I was 14 and I started attending University in 2020. I´m currently focused on learning some web development libraries and frameworks, as well as web hacking. 
+Passionate Cybersecurity Analyst and Developer with academic background in Bachelor's Degree in Computer Science (to be finished in June 2024) and Security+ Certified. Took part in the Trend Micro Certification Program in IT Security (CPITS) in 2021.
 
-## Technology subjects I´ve studied
-- Currently focusing on Cybersecurity topics.
-- Created Front-end pages as a freelancer.
-- Studied about back-end structures like MVC and learned about security implementations.
-- Completed several CTF (Capture the Flag) challenges on TryHackMe and PortSwigger´s Web Security Academy.
-- Studying about low-level programming and infrastructures with Assembly and C.
+Fluent in English, with 11 years of presential english courses at Wizard by Pearson. Got the TOIEC Certificate (Test of English for International Communication) and the Wizard's Certificate of Completion of English Course. Took the EF SET English test with a score of 86/100 (C2 Proficient). Advanced German knowledge (C1), certified by the Deutsches Sprachdiplom (DSD) II.
 
 ## Web Presence
 
